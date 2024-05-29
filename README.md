@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vishalMori
 - 👀 I’m interested in php, java, C#, C, C++
-- 🌱 I’m currently learning php, javascript
+- 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me Email morivishal@gmail.com
+- 📫 How to reach me Email morivishal.a@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm not a professional or an expert but I'm happy to share with you what I learn 
+- ⚡ Fun fact: I'm not an expert but I'm happy to share with you what I learn 
 
 <!---
 vishalMori/vishalMori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
