@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalMori
-- 👀 I’m interested in php, java, C#, C, C++
+- 👀 I’m interested in php, C#, C, C++, wordpress, javaScript
 - 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me Email morivishal.a@gmail.com
