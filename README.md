@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me Email morivishal.a@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not an expert but I'm happy to share with you what I learn 
 
 <!---
