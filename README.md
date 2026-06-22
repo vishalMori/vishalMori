@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vishalMori
 - 👀 I’m interested in php, C#, C, C++, wordpress, javaScript
 - 🌱 I’m currently learning wordpress
-- 💞️ I’m looking to collaborate on github
-
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not an expert but I'm happy to share with you what I learn 
 
